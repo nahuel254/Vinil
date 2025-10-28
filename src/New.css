@@ -29,7 +29,7 @@
   flex-direction: column;
   align-items: center;
   color: black;
-  margin-top: 9rem; /* 🔹 mueve hacia abajo todo el bloque */
+  margin-top: 9rem; /* mueve hacia abajo todo el bloque */
 }
 
 .shop-title {
