@@ -12,8 +12,8 @@
 .look-container {
   flex: 1;
   display: flex;
-  justify-content: flex-start; /* 🔹 la imagen se alinea a la izquierda */
-  margin-left: 0; /* 🔹 sin margen */
+  justify-content: flex-start; /* la imagen se alinea a la izquierda */
+  margin-left: 0; /* sin margen */
 }
 
 .look-img {

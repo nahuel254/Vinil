@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-/* Asegura que el body ocupe toda la pantalla */
+/*  body ocupe toda la pantalla */
 html, body {
   width: 100%;
   height: 100%;
@@ -22,15 +22,15 @@ html, body {
   margin-top: 0;
   position: absolute;
   top: 0;
-  box-sizing: border-box; /* ✅ evita que el padding sume ancho extra */
-  z-index:1000; /* ✅ oculta posibles desbordes de íconos */
+  box-sizing: border-box; /*  evita que el padding sume ancho extra */
+  z-index:1000; /* oculta posibles desbordes de íconos */
   left: 0;
 }
 /* Logo centrado */
 .logo {
   font-size: 1.7rem;
   font-family: "Fjalla One", sans-serif;
-  transform: translateX(-50%); /* ✅ centra perfectamente */
+  transform: translateX(-50%); /* centra*/
   position: absolute;
   left: 50%;
   color: white;
